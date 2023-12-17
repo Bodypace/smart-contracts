@@ -1,0 +1,171 @@
+<mxfile host="Electron" modified="2023-11-21T16:55:25.932Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/116.0.5845.97 Electron/26.1.0 Safari/537.36" etag="I9KwdMxQ-NIFzaZhtfk0" version="21.2.8" type="device">
+  <diagram name="Page-1" id="9tUjHSjO-pUwcM8YaVkJ">
+    <mxGraphModel dx="1886" dy="926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="750" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MEUegMg15wwIGua4a0ql-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-11" target="MEUegMg15wwIGua4a0ql-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Operational costs wallet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="492" y="324" width="183" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-12" target="MEUegMg15wwIGua4a0ql-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-12" target="MEUegMg15wwIGua4a0ql-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#E07A5F;fontColor=default;shape=flexArrow;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MEUegMg15wwIGua4a0ql-31" target="MEUegMg15wwIGua4a0ql-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Income wallet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="209" y="240" width="173" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-13" target="MEUegMg15wwIGua4a0ql-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-13" target="MEUegMg15wwIGua4a0ql-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-13" target="MEUegMg15wwIGua4a0ql-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-13" value="Profits wallet" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;fontSize=20;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="492" y="163" width="153" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-17" target="MEUegMg15wwIGua4a0ql-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-17" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="73" y="151" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-19" target="MEUegMg15wwIGua4a0ql-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-19" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="73" y="210" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-21" target="MEUegMg15wwIGua4a0ql-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-21" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="73" y="286" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-23" target="MEUegMg15wwIGua4a0ql-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-23" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="73" y="363" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-25" target="MEUegMg15wwIGua4a0ql-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-25" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="73" y="91" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-27" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="746" y="103" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-28" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="746" y="169" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-29" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="746" y="225" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-30" target="MEUegMg15wwIGua4a0ql-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=123;entryDy=93.47031263314574;entryPerimeter=0;strokeColor=#E07A5F;fontColor=default;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-30" target="MEUegMg15wwIGua4a0ql-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-30" target="MEUegMg15wwIGua4a0ql-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-30" value="" style="shape=actor;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="567.5" y="492.5" width="32" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Some immutable&lt;br&gt;decentralized storage&lt;/font&gt;" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="302" y="450" width="123" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-48" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Users&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="57.00172413793116" y="428.9958620689656" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-49" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Owner&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550.9986206896551" y="536.0013793103449" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-50" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Contributors&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="734.0010344827587" y="282.9958620689656" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Users pay with crypto each month for Bodypace storage (transaction includes their online account username, which is set by them when registering and thus can be anonymous)&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="19" y="35" width="339" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-52" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="125" y="95" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-54" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="125" y="290.5" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-56" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="125" y="154" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-57" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="125" y="212" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-58" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="125" y="366" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-59" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="438" y="248" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-60" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="438" y="286" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;Here owner stores for everyone to see:&lt;br&gt;1. Receipts and other confirmations of the&lt;br&gt;previous months money spending on operational costs&lt;br&gt;2. Current month operational&amp;nbsp;costs (income wallet will use this to split money between Profits wallet and Operational costs wallet)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#393C56;spacing=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="64" y="615" width="346" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-65" value="information" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="474" y="490" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-66" value="information" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="399" y="414" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-67" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="698" y="114" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-68" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="698" y="180.5" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-69" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="698" y="236.5" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-70" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Income wallet each month checks how much money per user should go to operational costs. The rest is sent to profits wallet which sends received funds to all contributors automatically, proportionally to how many pull requests they merged recently.&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="446" y="39" width="357" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-71" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="582" y="441" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-73" target="MEUegMg15wwIGua4a0ql-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;labelBackgroundColor=none;" parent="1" source="MEUegMg15wwIGua4a0ql-73" target="MEUegMg15wwIGua4a0ql-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-73" value="&lt;font face=&quot;Helvetica&quot;&gt;Fiat money world :c&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#E07A5F;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="680" y="475" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-78" value="$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="641" y="500" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-80" value="information" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="659" y="548" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="MEUegMg15wwIGua4a0ql-82" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Hard drives, etc.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#393C56;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="611" y="459" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
