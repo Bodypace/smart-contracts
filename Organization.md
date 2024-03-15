@@ -6,9 +6,17 @@
 
 Our apps are open source and free, but our storage is not. It was decided that revenue from storage will be automatically shared among Bodypace contributors via crypto.
 
+&nbsp;
+
 ![diagram](organization.drawio.png)
 
+&nbsp;
+
 > Owner will be gradually replaced (maybe not fully) with DAO voting over time.
+
+> We use blockchains for their smart contracts, not their "crypto" (coins/tokens). Bodypace offers no custom tokens and all payments are in U.S. dollar stablecoin (e.g. USDT)
+
+&nbsp;
 
 ### Why crypto
 
@@ -24,13 +32,11 @@ Our apps are open source and free, but our storage is not. It was decided that r
 
 Everyone can become a paid contributor, there are no requirements besides writing good code. We only care about the PR correctness.
 
+We only require contributors to communicate with us in comment sections of theirs Tickets/Issues and Pull Requests.
+
 Everybody, not only contributors, is more than welcomed to interact with others on our Discord server to participate in meetings (e.g. scrum planning), random chats, mentoring or being mentored, or generally connecting with like minded people.
 
-Also, if some mechanism that is explained in this document is not implemented/automated yet, it's probably being discussed and done on Discord. 
-
-We strive towards making above social activities fully optional, so there is no requirement to join them to become a contributor. This is not because we don't want to socialize, but to avoid discriminating talented people with communication disabilities and let everyone decide how much they want to socialize instead of forcing them to socialize against their will.
-
-We only require contributors to communicate with us in comment sections of theirs Tickets/Issues and Pull Requests.
+Also, if some mechanism that is explained in this document is not implemented/automated yet, it's probably being discussed and done manually using Discord chat and/or GH discussions/issue for now (until proper automation is implemented). 
 
 ### Tickets
 
